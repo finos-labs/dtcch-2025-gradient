@@ -11,6 +11,14 @@
 
 ### Team Information
 
+Team members: 
+* Ronak Bansal
+* Ishan Kaul
+* Mark Kim-Huang
+* Joe Laurendi
+* Forrest Moret
+* Leo Pekelis
+
 
 ## Using DCO to sign your commits
 
