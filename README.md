@@ -3,7 +3,7 @@
 # FINOS DTCC Hackathon 
 
 
-## Gradient Credit Lens
+## Gradient Credit Lens 
 
 
 ### Project Details
