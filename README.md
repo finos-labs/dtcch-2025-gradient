@@ -14,11 +14,11 @@ Under construction.
 
 Team members: 
 * Ronak Bansal
-* Ishan Kaul
 * Mark Kim-Huang
 * Joe Laurendi
 * Forrest Moret
 * Leo Pekelis
+* Ishan Kaul
 
 
 ## Using DCO to sign your commits
