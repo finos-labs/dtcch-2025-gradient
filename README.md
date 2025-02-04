@@ -13,12 +13,12 @@ Under construction.
 ### Team Information
 
 Team members: 
-* Ronak Bansal
-* Mark Kim-Huang
-* Joe Laurendi
 * Forrest Moret
-* Leo Pekelis
 * Ishan Kaul
+* Joe Laurendi
+* Leo Pekelis
+* Mark Kim-Huang
+* Ronak Bansal
 
 
 ## Using DCO to sign your commits
