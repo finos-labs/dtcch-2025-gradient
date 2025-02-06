@@ -58,16 +58,17 @@ TSNE-embedded knowledge graph of a credit agreement:
 
 ### Project Details
 
+Under construction.
 
 ### Team Information
 
 Team members:
-* Ronak Bansal
-* Ishan Kaul
-* Mark Kim-Huang
-* Joe Laurendi
 * Forrest Moret
+* Ishan Kaul
+* Joe Laurendi
 * Leo Pekelis
+* Mark Kim-Huang
+* Ronak Bansal
 
 
 ## Using DCO to sign your commits
