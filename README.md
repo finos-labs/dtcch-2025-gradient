@@ -1,17 +1,67 @@
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
 
-# FINOS DTCC Hackathon 
+# FINOS DTCC Hackathon
 
 
-## Gradient Credit Lens 
+# Gradient CreditAI
+<img src="assets/misc/logo-gradient-outlined.png" width="200">
 
+Gradient CreditAI is a credit investment copilot for deep diligence and risk mitigation, built on Gradient’s FinanceOS and Knowledge Engine.
+
+Gradient CreditAI supports the following features:
+
+* ** Easily analyze credit documents
+    - CreditAI automatically interprets 100-page credit documents and outputs critical information about the loan agreement.
+
+* ** Audit and view sources
+    - Trace the key terms and reasoning throughout the legal contract.
+
+* ** Track and review past investment agreements
+    - Quickly review key details from past agreements to ensure ongoing adherence to covenants.
+
+<img src="assets/mocks/mock.png" width="600">
+
+## Architecture
+
+Gradient CreditAI is an app built on top of a handful of Gradient's core technologies:
+
+* ** Gradient's Graph-Based Financial Knowledge Engine **
+   * Comprised of two main components:
+      * ** Gradient's Document Indexing and Knowledge Graph Engine **
+      * ** Gradient's Research Agent / Co-pilot **
+* ** Gradient's Layout Detection and Semantic Parsing Engine **
+    * OCR, Layout Detection, and Semantic + Hierarchical Parsing
+* ** Gradient's Document Annotation Suite **
+   * A general front-end suite for annotating documents
+
+<img src="assets/architecture/credit lens design diagram.png" width="800">
+
+## Example Problems
+
+Prompt: "Detail the interest rate for the debt agreements."
+
+Flow chart to arrive at the answer as an analyst:
+
+<img src="assets/flow chart/interest rate.png" width="800">
+
+## Example Knowledge Graph
+
+TSNE-embedded knowledge graph of a credit agreement:
+
+<img src="assets/graphs/entity_graph_networkx_clustered_2d_tsne_2025-02-06_11-22-41.png" width="800">
+
+## Where to find more documents
+
+* Go to [SEC EDGAR Filing Search](https://www.sec.gov/edgar/search/)
+* Search for "loan agreement" or "credit agreement" + a company name
+* Click into 8-K & 10-Q Filings and look at / download credit agreement exhibits.
 
 ### Project Details
 
 
 ### Team Information
 
-Team members: 
+Team members:
 * Ronak Bansal
 * Ishan Kaul
 * Mark Kim-Huang
